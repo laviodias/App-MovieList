@@ -4,6 +4,7 @@
 # About the project
 
 MovieList is a React Native app that list movies and TV shows, allows searches and shows details when an item is clicked.
+Details shows movies duration, summary, genders and ratings and also similar movies. For TV shows, you can check out the ratings, number of seasons, summary, genders and see more about any season you want.
 This project is still being updtated and you're very welcome to fork it and help.
 
 ## You can download it:
