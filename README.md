@@ -6,7 +6,7 @@
 MovieList is a React Native app that list movies and TV shows, allows searches and shows details when an item is clicked.
 This project is still being updtated and you're very welcome to fork it and help.
 
-You can download it:
+## You can download it:
  - [Android](https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40lavio/MovieList-376e7c94962841459c92655e59b6ba67-signed.apk)
  - IOS: Comming soon!
 
@@ -24,7 +24,11 @@ You can download it:
 <img src="https://user-images.githubusercontent.com/44332001/141304244-d28edaef-1cf6-4336-963e-cc3c44e942f6.png" alt="Movies Screen" width="250"/>  <img src="https://user-images.githubusercontent.com/44332001/141304256-de863085-acda-42ef-8d9d-530552ad3860.png" alt="Movies Screen" width="250"/>  <img src="https://user-images.githubusercontent.com/44332001/141304250-5a65f204-3867-4af9-aff9-277c21f51570.png" alt="Movies Screen" width="250"/> 
 </p>
 
-
+## Technologies used:
+- React Native
+- CSS
+- API The Movie Database
+- Expo
 
 # Author
 
